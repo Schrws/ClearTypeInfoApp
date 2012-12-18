@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClearType</string>
+    <string name="hello_world">ClearType에 오신 것을 환영합니다.\n\n</string>
+    <string name="hello_world2">Fast, Light, Cool.</string>
+    <string name="hello_world3">ClearType 소개</string>
+    <string name="hello_world4">궁금한 점이 있으십니까?</string>
+    <string name="appear">Your Mobile OS is Our Vision</string>
+    <string name="helps">궁금한 점이 있다면, 팀 홈페이지나 블로그에 들러보세요. 저희 팀원들은 질문의 답을 하기위해 노력할 것입니다. 그리고 업데이트, 새로운 소식들을 알 수 있습니다.</string>
+    <string name="appp">저희 팀은 빠르고, 가볍고, 멋진 OS를 제공하기 위해 노력하고 있습니다. ClearType OS에는 여러가지 기능들이 있습니다. 사용하면서 큰 만족감을 얻을 수 있을것이라고 생각합니다.</string>
+    <string name="aaaa">ClearType OS는 당신의 기기를 놀랍도록 만들 특징들을 가지고 있습니다. 이 버전은 새로운 기능, 인터페이스를 강화합니다. 이제 장점이 더 많고 빠릅니다. 우리는 새로운 롬 안에 신선한 것들을 보여주고 싶습니다.</string>
+    <string name="menu_settings">Settings</string>
+    <string name="next">다음</string>
+    <string name="back">이전</string>
+    <string name="end">끝내기</string>
+
+</resources>
